@@ -27,9 +27,10 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var migrator = scope.ServiceProvider.GetRequiredService<IMigrationRunner>();
-    migrator.MigrateUp();
+    migrator.MigrateUp();  // Executa todas as migrações pendentes
 }
 
 app.UseHttpsRedirection();
 app.MapControllers();
+
 app.Run();

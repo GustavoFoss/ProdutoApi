@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3224F33-E8A2-4CFB-9071-D6F0C3716BB4}|Itens de Solu\u00E7\u00E3o{D3224F33-E8A2-4CFB-9071-D6F0C3716BB4}|C:\\Users\\fossg\\source\\repos\\ProdutoApi\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D3224F33-E8A2-4CFB-9071-D6F0C3716BB4}|Itens de Solu\u00E7\u00E3o{D3224F33-E8A2-4CFB-9071-D6F0C3716BB4}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}|ProdutoApi\\ProdutoApi.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\produtoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}|ProdutoApi\\ProdutoApi.csproj|solutionrelative:produtoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\views\\produto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\views\\produto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\views\\produto\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\views\\produto\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\views\\produto\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\views\\produto\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\interfacemvc\\views\\produto\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45650EE7-CB79-45D3-B08E-6D3760973FEC}|InterfaceMvc\\InterfaceMvc.csproj|solutionrelative:interfacemvc\\views\\produto\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}|ProdutoApi\\ProdutoApi.csproj|c:\\users\\fossg\\source\\repos\\produtoapi\\produtoapi\\produtoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}|ProdutoApi\\ProdutoApi.csproj|solutionrelative:produtoapi\\produtoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Program.cs",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Program.cs",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Program.cs*",
-              "RelativeToolTip": "InterfaceMvc\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAArwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T16:13:39.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Views\\Produto\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Edit.cshtml",
-              "RelativeToolTip": "InterfaceMvc\\Views\\Produto\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:10:48.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Details.cshtml",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Views\\Produto\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Details.cshtml",
-              "RelativeToolTip": "InterfaceMvc\\Views\\Produto\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:10:38.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Delete.cshtml",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Views\\Produto\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Delete.cshtml",
-              "RelativeToolTip": "InterfaceMvc\\Views\\Produto\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:10:32.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Create.cshtml",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Views\\Produto\\Create.cshtml",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Create.cshtml",
-              "RelativeToolTip": "InterfaceMvc\\Views\\Produto\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:10:30.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Views\\Produto\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\_ViewStart.cshtml",
-              "RelativeToolTip": "InterfaceMvc\\Views\\Produto\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:10:29.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Views\\Produto\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\_ViewImports.cshtml",
-              "RelativeToolTip": "InterfaceMvc\\Views\\Produto\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:10:25.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Views\\Produto\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\_Layout.cshtml",
-              "RelativeToolTip": "InterfaceMvc\\Views\\Produto\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:08:14.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Index.cshtml",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Views\\Produto\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Views\\Produto\\Index.cshtml",
-              "RelativeToolTip": "InterfaceMvc\\Views\\Produto\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:05:42.058Z",
+              "Title": "ProdutoApi",
+              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\ProdutoApi\\ProdutoApi.csproj",
+              "RelativeDocumentMoniker": "ProdutoApi\\ProdutoApi.csproj",
+              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\ProdutoApi\\ProdutoApi.csproj",
+              "RelativeToolTip": "ProdutoApi\\ProdutoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T18:00:25.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "InterfaceMvc\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\InterfaceMvc\\Properties\\launchSettings.json",
-              "RelativeToolTip": "InterfaceMvc\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T16:03:13.267Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\ProdutoApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProdutoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\ProdutoApi\\Program.cs*",
+              "RelativeToolTip": "ProdutoApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:44:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\fossg\\source\\repos\\ProdutoApi\\Dockerfile*",
+              "RelativeToolTip": "Dockerfile*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T17:40:57.782Z",
               "EditorCaption": ""
             }
           ]

@@ -130,6 +130,10 @@
               "target": "Package",
               "version": "[6.2.0, )"
             },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
             "FluentMigrator.Runner.Postgres": {
               "target": "Package",
               "version": "[6.2.0, )"
