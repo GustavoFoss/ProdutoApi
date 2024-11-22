@@ -1,0 +1,36 @@
+﻿@model InterfaceMvc.Models.Produto
+
+@{
+    ViewData["Title"] = "Excluir Produto";
+}
+
+<h1>Excluir Produto</h1>
+
+<h4>Produto</h4>
+<hr />
+
+<p>Tem certeza de que deseja excluir este produto?</p>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Nome</th>
+        <td>@Model.Nome</td>
+    </tr>
+    <tr>
+        <th>Preço</th>
+        <td>@Model.Preco.ToString("C")</td>
+    </tr>
+    <tr>
+        <th>Descrição</th>
+        <td>@Model.Descricao</td>
+    </tr>
+</table>
+
+<form method="post">
+    <button type="submit" class="btn btn-danger">Excluir</button>
+    <a href="@Url.Action("Index", "Produto")" class="btn btn-secondary">Cancelar</a>
+</form>

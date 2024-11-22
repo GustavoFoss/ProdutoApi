@@ -68,3 +68,4 @@ C:\Users\fossg\source\repos\ProdutoApi\ProdutoApi\obj\Debug\net8.0\ProdutoApi.ge
 C:\Users\fossg\source\repos\ProdutoApi\ProdutoApi\obj\Debug\net8.0\ref\ProdutoApi.dll
 C:\Users\fossg\source\repos\ProdutoApi\ProdutoApi\bin\Debug\net8.0\Npgsql.dll
 C:\Users\fossg\source\repos\ProdutoApi\ProdutoApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fossg\source\repos\ProdutoApi\ProdutoApi\obj\Debug\net8.0\ProdutoApi.sourcelink.json

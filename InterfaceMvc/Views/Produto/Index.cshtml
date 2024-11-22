@@ -1,0 +1,39 @@
+﻿@model IEnumerable<InterfaceMvc.Models.Produto>
+
+@{
+    ViewData["Title"] = "Produtos";
+}
+
+<h1>Produtos</h1>
+
+<p>
+    <a href="@Url.Action("Create", "Produto")" class="btn btn-primary">Criar Novo Produto</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Descrição</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produto in Model)
+        {
+            <tr>
+                <td>@produto.Id</td>
+                <td>@produto.Nome</td>
+                <td>@produto.Preco.ToString("C")</td>
+                <td>@produto.Descricao</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Produto", new { id = produto.Id })" class="btn btn-warning">Editar</a>
+                    <a href="@Url.Action("Details", "Produto", new { id = produto.Id })" class="btn btn-info">Detalhes</a>
+                    <a href="@Url.Action("Delete", "Produto", new { id = produto.Id })" class="btn btn-danger">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
