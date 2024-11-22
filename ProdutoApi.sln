@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutoApi", "ProdutoApi\ProdutoApi.csproj", "{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsProduto", "TestsProduto\TestsProduto.csproj", "{F7AD21EF-3062-4F6D-B3BE-32867AE41934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42C2E7E-FB67-4343-B6E1-BA9A2C0DC99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AD21EF-3062-4F6D-B3BE-32867AE41934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AD21EF-3062-4F6D-B3BE-32867AE41934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AD21EF-3062-4F6D-B3BE-32867AE41934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AD21EF-3062-4F6D-B3BE-32867AE41934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE3A5A0-3689-4042-8B29-6EACC3BA79B0}
+	EndGlobalSection
+EndGlobal
