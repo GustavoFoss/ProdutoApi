@@ -33,4 +33,18 @@ Este projeto é uma API RESTful para gerenciamento de produtos. A API permite re
 
    ```bash
    git clone https://github.com/GustavoFoss/ProdutoApi.git
-   cd ProdutoApi
+   
+2. **Instalar dependencias**
+   ```bash
+   dotnet restore
+   
+3. **No arquivo appsettings.json, configure a string de conexão com seu banco PostgreSQL:
+   ```bash
+   "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Port=5432;Database=produtosdb;Username=seu_usuario;Password=sua_senha"
+   }
+4. **Crie o banco de dados no seu localhost
+   ```bash
+   CREATE DATABASE produtosdb;
+   
+5. **Execute a aplicação e faça as requisiçoes via postman
