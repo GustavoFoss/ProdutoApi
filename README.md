@@ -47,4 +47,31 @@ Este projeto é uma API RESTful para gerenciamento de produtos. A API permite re
    ```bash
    CREATE DATABASE produtosdb;
    
-5. **Execute a aplicação e faça as requisiçoes via postman
+5. **Execute em uma janela do Visual Studio a ProdutoApi como HTTPS
+6. **Execute a interface mvc em outra janela do Visual Studio
+
+### Rodando a Aplicação com Docker
+Para rodar a aplicação localmente usando Docker, siga os passos abaixo:
+
+### Instale o Docker:
+
+Faça o download e instale o Docker em sua máquina: Docker para Windows/Mac/Linux.
+
+### Baixar a Imagem Docker:
+
+Se você não deseja construir a imagem localmente, você pode fazer o pull da imagem diretamente do Docker Hub com o comando:
+
+   
+   Copiar código
+   docker pull gustavosilvanextage/produto-api-image:latest
+   Rodar a Aplicação Localmente:
+
+# Após a imagem ser baixada ou criada, você pode rodar a aplicação localmente com o seguinte comando:
+
+   Copiar código
+   docker run -d -p 8080:80 gustavosilvanextage/produto-api-image:latest
+   Isso irá iniciar o contêiner e mapear a porta 80 do contêiner para a porta 8080 da sua máquina local.
+
+# Acessar a Aplicação:
+
+Abra o navegador e vá para http://localhost:8080 para acessar a aplicação.
