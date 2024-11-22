@@ -47,4 +47,5 @@ Este projeto é uma API RESTful para gerenciamento de produtos. A API permite re
    ```bash
    CREATE DATABASE produtosdb;
    
-5. **Execute a aplicação e faça as requisiçoes via postman
+5. **Execute em uma janela do Visual Studio a ProdutoApi como HTTPS
+6. **Execute a interface mvc em outra janela do Visual Studio
